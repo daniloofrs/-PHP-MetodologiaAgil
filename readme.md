@@ -3,10 +3,10 @@
 Repositório destinado ao desenvolvimento da lista de exercício de Metodologia Ágil da unidade curricular Tópicos Essenciais para Programação.
 
 ## 👥 Integrantes do Grupo
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Danilo Marques
+* João Marcelo de Carvalho Duarte
+* Gabriel Costa
+* Pedro Henrique
 
 ## 📊 Gestão e Acompanhamento
 O planejamento das tarefas, prazos, responsáveis e fontes de pesquisa estão centralizados no documento oficial.
